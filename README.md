@@ -1,2 +1,4 @@
 # nuclei-data
-Graphs and additional logging/data for nuclei
+Graphs and Additional Data Logging for Nuclear Schiff Moment Data
+
+{% include figure.html %}
