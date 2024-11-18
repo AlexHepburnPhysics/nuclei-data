@@ -17,10 +17,10 @@ Tl205 - Isovector (g2) Channel
 {% include Tl205-Yuk2.html %}
 
 Eu153 - Isoscalar (g0) Channel 
-{% include Tl205-Yuk0.html %}
+{% include Eu153-Yuk0.html %}
 
 Eu153 - Isovector (g1) Channel 
-{% include Tl205-Yuk1.html %}
+{% include Eu153-Yuk1.html %}
 
 Eu153 - Isovector (g2) Channel 
-{% include Tl205-Yuk2.html %}
+{% include Eu153-Yuk2.html %}
