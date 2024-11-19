@@ -1,6 +1,4 @@
 # nuclei-data
-
-{%- include mathjax.html -%}
 Graphs and Additional Data Logging for Nuclear Schiff Moment Data
 
 Changes in the Integrand of the Schiff Moment with varying Pion masses:
