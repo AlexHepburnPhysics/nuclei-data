@@ -25,3 +25,12 @@ denoted by 080, 010, 020, and 050 respectively.
 
 ### Eu153 - Isovector (g2) Channel 
 {% include Eu153-Yuk2.html %}
+
+### Yb171 - Isoscalar (g0) Channel 
+{% include Yb171-Yuk0.html %}
+
+### Yb171 - Isovector (g1) Channel 
+{% include Yb171-Yuk1.html %}
+
+### Yb171 - Isovector (g2) Channel 
+{% include Yb171-Yuk2.html %}
