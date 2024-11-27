@@ -6,6 +6,9 @@ Changes in the Integrand of the Schiff Moment with varying Pion masses:
 Plots below show the $\delta \rho$ ($r_{perp}$ - 5/3 $<r^2>$)z  where $\delta \rho$ is the change in proton density of files with pion mass 0.7045 and [0.80, 1.0, 2.0, 5.0] as 
 denoted by 080, 010, 020, and 050 respectively.
 
+Integrals are calculated over Z >=0 and R_Perp >=0. The result is then scaled by 4/1000 to appropriately be close to the HFODD results. Pion masses are not shown in the integrals but are shown in the
+graphs for better comparison. Calcauting the a_i values is simply taking a result *(1000/0.01)*(pi_mass/0.7045)^2.
+
 ## Tl205 - Isoscalar (g0) Channel
 
 ### Tl205 SLy4 Isoscalar (g0) Channel
