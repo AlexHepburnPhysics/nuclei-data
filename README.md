@@ -69,6 +69,7 @@ denoted by 080, 010, 020, and 050 respectively.
 | 1      | 7.29E-07   | 6.98E-07  | 1.22                |
 | 2      | 2.17E-07   | 2.02E-07  | 0.91                |
 | 5      | 3.52E-08   | 3.21E-08  | 0.45                |
+
 {% include tl205_yuk2_corrected.html %}
 
 ## Eu153 - Isoscalar (g0) Channel 
