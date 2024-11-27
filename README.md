@@ -7,10 +7,18 @@ Plots below show the $\delta \rho$ ($r_{perp}$ - 5/3 $<r^2>$)z  where $\delta \r
 denoted by 080, 010, 020, and 050 respectively.
 
 ### Tl205 - Isoscalar (g0) Channel
-| HFODD_S10 | Integral Proton Density | % Difference  | 
-| --------- | ----------------------- | ------------- |
-| Tl205_Sly4_Yuk0   |     |   |
-| Tl205_Skms_Yuk0   |     |
+
+
+|HFODD_S10 Values |
+| -----------------------------------------| 
+|m_pi   |	g0	      |g1	        | g2       |
+|----   | --------- | --------- | -------- |
+|0.7045 |	2.63E-07	| -6.80E-07	| 1.10E-06 |
+|0.8    |	2.05E-07	| -5.54E-07	| 9.20E-07 | 
+|1      |	1.30E-07	| -3.85E-07	| 6.59E-07 | 
+|2      |	3.37E-08	| -1.15E-07	| 1.97E-07 | 
+|5      |	9.00E-09	| -2.00E-08	| 3.06E-08 | 
+
 
 
 {% include Tl205-Yuk0.html %}
