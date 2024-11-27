@@ -92,6 +92,8 @@ denoted by 080, 010, 020, and 050 respectively.
 | 2      | -2.31E-07  | -2.95E-07 | 0.78                |
 | 5      | -8.95E-08  | -1.05E-07 | 0.86                |
 
+{% include eu153_yuk0_corrected.html %}
+
 ## Eu153 - Isovector (g1) Channel 
 
 ### Eu153 SLy4 Isovector (g1) Channel
@@ -112,6 +114,8 @@ denoted by 080, 010, 020, and 050 respectively.
 | 2      | 4.40E-07   | 5.01E-07  | 0.88                |
 | 5      | 1.06E-07   | 1.23E-07  | 0.86                |
 
+{% include eu153_yuk1_corrected.html %}
+
 ## Eu153 - Isotensor (g2) Channel 
 
 ### Eu153 SLy4 Isotensor (g2) Channel
@@ -131,6 +135,8 @@ denoted by 080, 010, 020, and 050 respectively.
 | 1      | -1.54E-06  | -2.01554E-06 | 0.76                |
 | 2      | -7.28E-07  | -8.86564E-07 | 0.82                |
 | 5      | -1.33E-07  | -1.56592E-07 | 0.85                |
+
+{% include eu153_yuk2_corrected.html %}
 
 ## Yb171 - Isoscalar (g0) Channel 
 
