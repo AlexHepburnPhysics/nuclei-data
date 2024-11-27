@@ -12,50 +12,17 @@ graphs for better comparison. Calcauting the a_i values is simply taking a resul
 ## Tl205 - Isoscalar (g0) Channel
 
 ### Tl205 SLy4 Isoscalar (g0) Channel
-<table>
-<thead>
-  <tr>
-  <th>m_pi</th>
-  <th>Proton S10</th>
-  <th>Integral</th>
-  <th>Constant Difference</th>
-  </tr>
-</thead>
-<tbody>
-<tr>
-<td>0.7045</td>
-<td>2.63E-07</td>
-<td>3.94E-07</td>
-<td>1.50</td>
-</tr>
-<tr>
-<td>0.8</td>
-<td>2.05E-07</td>
-<td>3.17E-07</td>
-<td>1.55</td>
-</tr>
-<tr>
-<td>1</td>
-<td>1.30E-07</td>
-<td>2.10E-07</td>
-<td>1.62</td>
-</tr>
-<tr>
-<td>2</td>
-<td>3.37E-08</td>
-<td>5.46E-08</td>
-<td>1.62</td>
-</tr>
-<tr>
-<td>5</td>
-<td>9.00E-09</td>
-<td>9.76E-09</td>
-<td>1.08</td>
-</tr>
-</tbody>
-</table>
+
+| m_pi   |Proton S10| Integral  | Constant Difference |
+|--------|----------|-----------|---------------------|
+| 0.7045 | 2.63E-07 | 3.94E-07  | 1.50                |
+| 0.8    | 2.05E-07 | 3.17E-07  | 1.55                |
+| 1      | 1.30E-07 | 2.10E-07  | 1.62                |
+| 2      | 3.37E-08 | 5.46E-08  | 1.62                |
+| 5      | 9.00E-09 | 9.76E-09  | 1.08                |
 
 ### Tl205 Skm* Isoscalar (g0) Channel
+
 | m_pi   | Proton S10 | Integral  | Constant Difference |
 |--------|------------|-----------|---------------------|
 | 0.7045 | 3.76E-07   | 4.79E-07  | 1.27                |
@@ -69,6 +36,7 @@ graphs for better comparison. Calcauting the a_i values is simply taking a resul
 
 ## Tl205 - Isovector (g1) Channel 
 ### Tl205 SLy4 Isoscalar (g1) Channel
+
 | m_pi   | Proton S10 | Integral  | Constant Difference |
 |--------|------------|-----------|---------------------|
 | 0.7045 | -6.80E-07  | -6.15E-07 | 0.90                |
@@ -78,6 +46,7 @@ graphs for better comparison. Calcauting the a_i values is simply taking a resul
 | 5      | -2.00E-08  | -1.72E-08 | 0.86                |
 
 ### Tl205 Skm* Isoscalar (g1) Channel
+
 | m_pi   | Proton S10 | Integral  | Constant Difference |
 |--------|------------|-----------|---------------------|
 | 0.7045 | -9.09E-07  | -7.44E-07 | 1.27                |
@@ -91,6 +60,7 @@ graphs for better comparison. Calcauting the a_i values is simply taking a resul
 ## Tl205 - Isotensor (g2) Channel 
 
 ### Tl205 SLy4 Isotensor (g2) Channel
+
 | m_pi   | Proton S10 | Integral  | Constant Difference |
 |--------|------------|-----------|---------------------|
 | 0.7045 | 1.10E-06   | 1.12E-06  | 1.02                |
@@ -100,6 +70,7 @@ graphs for better comparison. Calcauting the a_i values is simply taking a resul
 | 5      | 3.06E-08   | 6.99E-09  | 0.23                |
 
 ### Tl205 Skm* Isotensor (g2) Channel
+
 | m_pi   | Proton S10 | Integral  | Constant Difference |
 |--------|------------|-----------|---------------------|
 | 0.7045 | 1.21E-06   | 1.21E-06  | 1.27                |
@@ -113,6 +84,7 @@ graphs for better comparison. Calcauting the a_i values is simply taking a resul
 ## Eu153 - Isoscalar (g0) Channel 
 
 ### Eu153 SLy4 Isoscalar (g0) Channel
+
 | m_pi   | Proton S10 | Integral  | Constant Difference |
 |--------|------------|-----------|---------------------|
 | 0.7045 | -1.64E-06  | -2.08E-06 | 0.79                |
@@ -122,6 +94,7 @@ graphs for better comparison. Calcauting the a_i values is simply taking a resul
 | 5      | -9.21E-07  | -1.12E-06 | 0.82                |
 
 ### Eu153 Skm* Isoscalar (g0) Channel
+
 | m_pi   | Proton S10 | Integral  | Constant Difference |
 |--------|------------|-----------|---------------------|
 | 0.7045 | -5.91E-07  | -9.71E-07 | 0.61                |
@@ -135,6 +108,7 @@ graphs for better comparison. Calcauting the a_i values is simply taking a resul
 ## Eu153 - Isovector (g1) Channel 
 
 ### Eu153 SLy4 Isovector (g1) Channel
+
 | m_pi   | Proton S10 | Integral  | Constant Difference |
 |--------|------------|-----------|---------------------|
 | 0.7045 | 1.19E-06   | 1.56E-06  | 0.77                |
@@ -144,6 +118,7 @@ graphs for better comparison. Calcauting the a_i values is simply taking a resul
 | 5      | -1.40E-07  | -1.39E-07 | 1.01                |
 
 ### Eu153 Skm* Isovector (g1) Channel
+
 | m_pi   | Proton S10 | Integral  | Constant Difference |
 |--------|------------|-----------|---------------------|
 | 0.7045 | 1.90E-06   | 2.21E-06  | 0.86                |
@@ -157,6 +132,7 @@ graphs for better comparison. Calcauting the a_i values is simply taking a resul
 ## Eu153 - Isotensor (g2) Channel 
 
 ### Eu153 SLy4 Isotensor (g2) Channel
+
 | m_pi   | Proton S10 | Integral  | Constant Difference |
 |--------|------------|-----------|---------------------|
 | 0.7045 | 1.75E-06   | 1.31E-06  | 1.34                |
@@ -166,6 +142,7 @@ graphs for better comparison. Calcauting the a_i values is simply taking a resul
 | 5      | 7.45E-07   | 8.84E-07  | 0.84                |
 
 ### Eu153 Skm* Isotensor (g2) Channel
+
 | m_pi   | Proton S10 | Integral     | Constant Difference |
 |--------|------------|--------------|---------------------|
 | 0.7045 | -2.35E-06  | -3.18462E-06 | 0.74                |
@@ -179,6 +156,7 @@ graphs for better comparison. Calcauting the a_i values is simply taking a resul
 ## Yb171 - Isoscalar (g0) Channel 
 
 ### Yb171 SLy4 Isoscalar (g0) Channel
+
 | m_pi   | Proton S10 | Integral  | Constant Difference |
 |--------|------------|-----------|---------------------|
 | 0.7045 | -1.21E-07  | -3.99E-07 | 0.30                |
@@ -188,6 +166,7 @@ graphs for better comparison. Calcauting the a_i values is simply taking a resul
 | 5      | -6.29E-09  | -6.55E-09 | 0.96                |
 
 ### Yb171 Skm* Isoscalar (g0) Channel
+
 | m_pi   | Proton S10 | Integral  | Constant Difference |
 |--------|------------|-----------|---------------------|
 | 0.7045 | 1.97E-07   | 2.05E-07  | 0.96                |
@@ -200,6 +179,7 @@ graphs for better comparison. Calcauting the a_i values is simply taking a resul
 ## Yb171 - Isovector (g1) Channel 
 
 ### Yb171 SLy4 Isovector (g1) Channel
+
 | m_pi   | Proton S10 | Integral  | Constant Difference |
 |--------|------------|-----------|---------------------|
 | 0.7045 | 3.08E-07   | 1.86E-07  | 1.66                |
@@ -209,6 +189,7 @@ graphs for better comparison. Calcauting the a_i values is simply taking a resul
 | 5      | 2.00E-08   | 1.05E-08  | 1.91                |
 
 ### Yb171 Skm* Isovector (g1) Channel
+
 | m_pi   | Proton S10 | Integral  | Constant Difference |
 |--------|------------|-----------|---------------------|
 | 0.7045 | -1.15E-06  | -1.32E-06 | 0.87                |
@@ -221,6 +202,7 @@ graphs for better comparison. Calcauting the a_i values is simply taking a resul
 ## Yb171 - Isotensor (g2) Channel 
 
 ### Yb171 SLy4 Isotensor (g2) Channel
+
 | m_pi   | Proton S10 | Integral  | Constant Difference |
 |--------|------------|-----------|---------------------|
 | 0.7045 | -2.50E-07  | -7.16E-07 | 0.35                |
@@ -230,6 +212,7 @@ graphs for better comparison. Calcauting the a_i values is simply taking a resul
 | 5      | -6.16E-08  | 2.45E-09  | -25.14              |
 
 ### Yb171 Skm* Isotensor (g2) Channel
+
 | m_pi   | Proton S10 | Integral  | Constant Difference |
 |--------|------------|-----------|---------------------|
 | 0.7045 | 6.61E-07   | 6.86E-07  | 0.96                |
