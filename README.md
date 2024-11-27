@@ -6,10 +6,10 @@ Changes in the Integrand of the Schiff Moment with varying Pion masses:
 Plots below show the $\delta \rho$ ($r_{perp}$ - 5/3 $<r^2>$)z  where $\delta \rho$ is the change in proton density of files with pion mass 0.7045 and [0.80, 1.0, 2.0, 5.0] as 
 denoted by 080, 010, 020, and 050 respectively.
 
-### Tl205 - Isoscalar (g0) Channel
+## Tl205 - Isoscalar (g0) Channel
 
 
-## Tl205 SLy4 Isoscalar (g0) Channel
+### Tl205 SLy4 Isoscalar (g0) Channel
 | m_pi   |Proton S10| Integral  | Constant Difference |
 |--------|----------|-----------|---------------------|
 | 0.7045 | 2.63E-07 | 3.94E-07  | 1.50                |
@@ -18,7 +18,14 @@ denoted by 080, 010, 020, and 050 respectively.
 | 2      | 3.37E-08 | 5.46E-08  | 1.62                |
 | 5      | 9.00E-09 | 9.76E-09  | 1.08                |
 
-
+### Tl205 Skm* Isoscalar (g0) Channel
+| m_pi   | Proton S10 | Integral  | Constant Difference |
+|--------|------------|-----------|---------------------|
+| 0.7045 | 3.76E-07   | 4.79E-07  | 1.27                |
+| 0.8    | 3.08E-07   | 3.89E-07  | 1.26                |
+| 1      | 2.16E-07   | 2.63E-07  | 1.22                |
+| 2      | 8.22E-08   | 7.49E-08  | 0.91                |
+| 5      | 2.88E-08   | 1.28E-08  | 0.45                |
 
 {% include Tl205-Yuk0.html %}
 
