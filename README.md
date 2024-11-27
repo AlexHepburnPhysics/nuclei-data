@@ -12,13 +12,48 @@ graphs for better comparison. Calcauting the a_i values is simply taking a resul
 ## Tl205 - Isoscalar (g0) Channel
 
 ### Tl205 SLy4 Isoscalar (g0) Channel
-| m_pi   |Proton S10| Integral  | Constant Difference |
-|--------|----------|-----------|---------------------|
-| 0.7045 | 2.63E-07 | 3.94E-07  | 1.50                |
-| 0.8    | 2.05E-07 | 3.17E-07  | 1.55                |
-| 1      | 1.30E-07 | 2.10E-07  | 1.62                |
-| 2      | 3.37E-08 | 5.46E-08  | 1.62                |
-| 5      | 9.00E-09 | 9.76E-09  | 1.08                |
+<table>
+<thead>
+  <tr>
+  <th>m_pi</th>
+  <th>Proton S10</th>
+  <th>Integral</th>
+  <th>Constant Difference</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+<td>0.7045</td>
+<td>2.63E-07</td>
+<td>3.94E-07</td>
+<td>1.50</td>
+</tr>
+<tr>
+<td>0.8</td>
+<td>2.05E-07</td>
+<td>3.17E-07</td>
+<td>1.55</td>
+</tr>
+<tr>
+<td>1</td>
+<td>1.30E-07</td>
+<td>2.10E-07</td>
+<td>1.62</td>
+</tr>
+<tr>
+<td>2</td>
+<td>3.37E-08</td>
+<td>5.46E-08</td>
+<td>1.62</td>
+</tr>
+<tr>
+<td>5</td>
+<td>9.00E-09</td>
+<td>9.76E-09</td>
+<td>1.08</td>
+</tr>
+</tbody>
+</table>
 
 ### Tl205 Skm* Isoscalar (g0) Channel
 | m_pi   | Proton S10 | Integral  | Constant Difference |
