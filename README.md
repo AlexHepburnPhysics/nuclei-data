@@ -81,7 +81,7 @@ denoted by 080, 010, 020, and 050 respectively.
 ### Eu153 - Isotensor (g2) Channel 
 
 
-### Yb171 - Isoscalar (g0) Channel 
+## Yb171 - Isoscalar (g0) Channel 
 
 ### Yb171 SLy4 Isoscalar (g0) Channel
 | m_pi   | Proton S10 | Integral  | Constant Difference |
@@ -101,6 +101,7 @@ denoted by 080, 010, 020, and 050 respectively.
 | 2      | 3.46E-09   | 2.16E-08  | 0.16                |
 | 5      | -1.79E-10  | 1.70E-09  | -0.11               |
 
+{% include yb171_yuk0_corrected.html %}
 ## Yb171 - Isovector (g1) Channel 
 
 ### Yb171 SLy4 Isovector (g1) Channel
@@ -121,6 +122,7 @@ denoted by 080, 010, 020, and 050 respectively.
 | 2      | -1.67E-07  | -2.20E-07 | 0.76                |
 | 5      | -2.89E-08  | -4.24E-08 | 0.68                |
 
+{% include yb171_yuk1_corrected.html %}
 ## Yb171 - Isotensor (g2) Channel 
 
 ### Yb171 SLy4 Isotensor (g2) Channel
@@ -140,3 +142,5 @@ denoted by 080, 010, 020, and 050 respectively.
 | 1      | 4.49E-07   | 5.18E-07  | 0.87                |
 | 2      | 1.98E-07   | 2.64E-07  | 0.75                |
 | 5      | 4.79E-08   | 6.67E-08  | 0.72                |
+
+{% include yb171_yuk2_corrected.html %}
